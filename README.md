@@ -1,4 +1,4 @@
-<p align="center" ><font size="15px">Hi there 👋</font></p>
+#Hi there 👋
 
 <!--
 **Kudchky/Kudchky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
